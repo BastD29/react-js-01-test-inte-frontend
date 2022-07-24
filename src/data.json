@@ -1,0 +1,38 @@
+[
+    {
+        "id": "a",
+        "image": "./assets/img-costa-brava-small.png",
+        "days": "Reste 5 jours",
+        "title": "ESPAGNE / COSTA BRAVA",
+        "description": "Détente à deux pas de la plage en demi-pension",
+        "hotel": "Hôtel Volga 4*",
+        "discount": "-56%"
+    },
+    {
+        "id": "b",
+        "image": "./assets/img-barcelona-town-small.png",
+        "days": "Reste 6 jours",
+        "title": "ESPAGNE / BARCELONE",
+        "description": "Séjour en plein coeur de la ville avec piscine sur le toit",
+        "hotel": "Ilunion Les Corts Spa 4*",
+        "discount": "-65%"
+    },
+    {
+        "id": "c",
+        "image": "./assets/img-barcelona-hotel-small.png",
+        "days": "Reste 2 jours",
+        "title": "ESPAGNE / BARCELONE",
+        "description": "Départ immédiat : Luxe et raffinement en formule tout inclus",
+        "hotel": "Hôtel & Spa Augusta Club 4*",
+        "discount": "-68%"
+    },
+    {
+        "id": "d",
+        "image": "./assets/img-barcelona-stadium.png",
+        "days": "Reste 2 jours",
+        "title": "ESPAGNE / BARCELONE",
+        "description": "Virée aux couleurs Blaugrana pour une expérience mémorable",
+        "hotel": "",
+        "discount": "-74%"
+    }
+]
